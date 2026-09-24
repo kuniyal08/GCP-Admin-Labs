@@ -1,21 +1,3 @@
-# GCP Admin Labs
-
-This repository records my hands-on Google Cloud administration labs. I use the labs to practice the Google Cloud console, Cloud Shell, `gcloud`, resource configuration, and troubleshooting.
-
-I will update this repository as I continue the Google Cloud administration course.
-
-## Lab Progress
-
-| Lab | Main skills | Status |
-| --- | --- | --- |
-| 01 - Explore the Google Cloud Console and Cloud Shell | Cloud Storage, Cloud Shell, `gcloud`, shell persistence, service discovery, context checks | Complete |
-| 02 - Compute Engine | VM administration, disks, images, snapshots | Planned |
-| 03 - VPC Networking | VPCs, subnets, routes, firewall rules | Planned |
-| 04 - IAM | Roles, permissions, service accounts | Planned |
-| 05 - Monitoring and Logging | Metrics, logs, alerts, Ops Agent | Planned |
-
----
-
 # Lab 01 - Explore the Google Cloud Console and Cloud Shell
 
 **Google Skills lab:** CBL006  
